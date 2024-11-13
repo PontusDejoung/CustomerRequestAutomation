@@ -1,0 +1,2 @@
+sqlalchemy==2.0.36   # SQLAlchemy for database ORM functionality
+ollama==0.3.3        # Library for interacting with the language model 
